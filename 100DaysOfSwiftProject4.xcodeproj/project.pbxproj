@@ -60,12 +60,12 @@
 			children = (
 				7B4F047A2488E6F0006F711F /* AppDelegate.swift */,
 				7B4F047C2488E6F0006F711F /* SceneDelegate.swift */,
+				7B677CE3248FC26D00EAF9A5 /* TableViewController.swift */,
 				7B4F047E2488E6F0006F711F /* ViewController.swift */,
 				7B4F04802488E6F0006F711F /* Main.storyboard */,
 				7B4F04832488E6F1006F711F /* Assets.xcassets */,
 				7B4F04852488E6F1006F711F /* LaunchScreen.storyboard */,
 				7B4F04882488E6F1006F711F /* Info.plist */,
-				7B677CE3248FC26D00EAF9A5 /* TableViewController.swift */,
 			);
 			path = 100DaysOfSwiftProject4;
 			sourceTree = "<group>";
